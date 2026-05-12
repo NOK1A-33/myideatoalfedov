@@ -1,0 +1,20 @@
+body{
+    
+    background-color:rgb(167, 167, 167);
+}
+.cont1{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.cont2{
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+}
+.afed{
+    width:50%;
+}
+.da {
+    width:25%;
+}
